@@ -1,28 +1,22 @@
 ---
 publish: true
-permalink: /People Notes/Jeff Birmes.md
-created: 2026-08-19T17:26:59.356Z
-modified: 2026-08-19T22:09:30.816Z
-published: 2026-08-19T22:09:30.816Z
+permalink: /People Notes/Mitch Hunt.md
+created: 2026-08-19T17:13:26.306Z
+modified: 2026-08-19T17:13:47.793Z
+published: 2026-08-19T17:13:47.793Z
 tags:
   - person
 type: person
 role:
 ---
 
-# Jeff Birmes
+# Mitch Hunt
 
 ## Open Action Items
 
-```dataviewjs
-const pages = dv.pages('#meeting and -"Templates"');
-const tasks = pages.file.tasks.where(t => {
-    if (t.completed || !t.assigned) return false;
-    const list = Array.isArray(t.assigned) ? t.assigned : [t.assigned];
-    return list.some(a => a.path === dv.current().file.path);
-});
-dv.taskList(tasks, false);
-```
+- Mitch follow up with park department to find out about waterline assigned[[Mitch Hunt|Mitch Hunt]] ⏫
+- Steven and Mitch work on getting plumbing fixed. assigned[[Mitch Hunt|Mitch Hunt]] ⏫ assigned[[Steven Fuchs|Steven Fuchs]]
+- Mitch work on sidewalk repairs assigned[[Mitch Hunt|Mitch Hunt]] 🔼
 
 ## Completed Action Items
 

@@ -1,28 +1,21 @@
 ---
 publish: true
-permalink: /People Notes/Jeff Birmes.md
-created: 2026-08-19T17:26:59.356Z
-modified: 2026-08-19T22:09:30.816Z
-published: 2026-08-19T22:09:30.816Z
+permalink: /People Notes/Linda Weiner.md
+created: 2026-08-19T17:26:39.218Z
+modified: 2026-08-19T17:26:49.555Z
+published: 2026-08-19T17:26:49.555Z
 tags:
   - person
 type: person
 role:
 ---
 
-# Jeff Birmes
+# Linda Weiner
 
 ## Open Action Items
 
-```dataviewjs
-const pages = dv.pages('#meeting and -"Templates"');
-const tasks = pages.file.tasks.where(t => {
-    if (t.completed || !t.assigned) return false;
-    const list = Array.isArray(t.assigned) ? t.assigned : [t.assigned];
-    return list.some(a => a.path === dv.current().file.path);
-});
-dv.taskList(tasks, false);
-```
+- Linda work on pocket park beautification and sprucing up. assigned[[Linda Weiner|Linda Weiner]] 🔼
+- Linda evaluate plantings at park house assigned[[Linda Weiner|Linda Weiner]] 🔽
 
 ## Completed Action Items
 

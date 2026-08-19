@@ -1,28 +1,20 @@
 ---
 publish: true
-permalink: /People Notes/Jeff Birmes.md
-created: 2026-08-19T17:26:59.356Z
-modified: 2026-08-19T22:09:30.816Z
-published: 2026-08-19T22:09:30.816Z
+permalink: /People Notes/Matt Negri.md
+created: 2026-08-19T17:26:28.424Z
+modified: 2026-08-19T17:26:39.210Z
+published: 2026-08-19T17:26:39.210Z
 tags:
   - person
 type: person
 role:
 ---
 
-# Jeff Birmes
+# Matt Negri
 
 ## Open Action Items
 
-```dataviewjs
-const pages = dv.pages('#meeting and -"Templates"');
-const tasks = pages.file.tasks.where(t => {
-    if (t.completed || !t.assigned) return false;
-    const list = Array.isArray(t.assigned) ? t.assigned : [t.assigned];
-    return list.some(a => a.path === dv.current().file.path);
-});
-dv.taskList(tasks, false);
-```
+- Matt and Steven work on getting organizing tuck-pointing bids assigned[[Matt Negri|Matt Negri]] assigned[[Steven Fuchs|Steven Fuchs]] 🔼
 
 ## Completed Action Items
 

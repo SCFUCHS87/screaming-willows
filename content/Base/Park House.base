@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("Park-House")
+    order:
+      - file.name
+      - file.embeds
+      - aliases
+      - file.backlinks
+      - file.basename
+    columnSize:
+      file.name: 295

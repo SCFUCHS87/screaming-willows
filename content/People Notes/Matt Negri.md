@@ -2,8 +2,8 @@
 publish: true
 permalink: /People Notes/Matt Negri.md
 created: 2026-08-19T17:26:28.424Z
-modified: 2026-08-19T17:26:39.210Z
-published: 2026-08-19T17:26:39.210Z
+modified: 2026-08-21T03:14:23.223Z
+published: 2026-08-21T03:14:23.223Z
 tags:
   - person
 type: person
@@ -14,20 +14,10 @@ role:
 
 ## Open Action Items
 
-- Matt and Steven work on getting organizing tuck-pointing bids assigned[[Matt Negri|Matt Negri]] assigned[[Steven Fuchs|Steven Fuchs]] 🔼
+Dataview: No results to show for task query.
 
 ## Completed Action Items
 
-```dataviewjs
-const pages = dv.pages('#meeting and -"Templates"');
-const tasks = pages.file.tasks.where(t => {
-    if (!t.completed || !t.assigned) return false;
-    const list = Array.isArray(t.assigned) ? t.assigned : [t.assigned];
-    return list.some(a => a.path === dv.current().file.path);
-});
-dv.taskList(tasks.limit(20), false);
-```
+Dataview: No results to show for task query.
 
 ## Meetings Attended
-
-- [[Meeting Notes/Maintenace Meeting 08-16-26.md|Maintenace Meeting 08-16-26]]

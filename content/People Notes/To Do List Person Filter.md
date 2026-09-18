@@ -11,13 +11,6 @@ tags:
 
 ## Filter by Person
 
-AllLinda WeinerMatt NegriMitch HuntPhil LamczykSteven FuchsThomas Culp
+All
 
-- Mitch follow up with park department to find out about waterline assigned[[Mitch Hunt|Mitch Hunt]] ⏫
-- Phil turn in Park House lease assigned[[Phil Lamczyk|Phil Lamczyk]] ⏫
-- Thomas work on park house painting and dry wall bids assigned[[Thomas Culp|Thomas Culp]] 🔼
-- Steven and Mitch work on getting plumbing fixed. assigned[[Mitch Hunt|Mitch Hunt]] ⏫ assigned[[Steven Fuchs|Steven Fuchs]]
-- Matt and Steven work on getting organizing tuck-pointing bids assigned[[Matt Negri|Matt Negri]] assigned[[Steven Fuchs|Steven Fuchs]] 🔼
-- Linda work on pocket park beautification and sprucing up. assigned[[Linda Weiner|Linda Weiner]] 🔼
-- Linda evaluate plantings at park house assigned[[Linda Weiner|Linda Weiner]] 🔽
-- Mitch work on sidewalk repairs assigned[[Mitch Hunt|Mitch Hunt]] 🔼
+Dataview: No results to show for task query.
